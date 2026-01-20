@@ -1,4 +1,5 @@
 # Event-Project---Nutrileague-Ltd-at-CPHI-Frankfurt-2025
+Note: Some details may be deleted due to the company privacy.
 This repository documents the end to end co-ordination of an international exhibition stall covering files/visual documentations which was done to make the project successful on site.
 The step by step work is as follows: 
 Design Coordination- Collected client requirements and coordinated with internal 3D Designers and ensured design alignment with client's expectations and vendor feasibility.
